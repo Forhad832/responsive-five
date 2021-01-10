@@ -1,0 +1,336 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+.mid-content{
+    max-width: 1300px;
+    margin: auto;
+}
+.container{
+    font-family: sans-serif;            
+    background-image: url(3.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+    width: 100%;
+    height: 600px;
+
+}
+.logo {
+	float: left;
+	position: relative;
+	left: 0;
+}
+.logo img{
+    width: 10%;
+  
+}
+
+
+nav {
+	float: right;
+	position: absolute;
+	right: 22px;
+	top: -6px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    font-size: 13px;
+}
+nav ul li a{
+    text-decoration:none;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: 700;
+    color: #333;
+}
+.content {
+	width: 400px;
+	position: relative;
+	top: 70px;
+	left: 880px;
+}
+h1{
+    font-family: serif;
+    font-size: 30px;
+}
+.main{
+    position: relative;
+    top: 30px;
+    font-size: 15px;
+}
+button{
+    background-color: #0EC8C2;
+    padding:10px 20px;
+    font-size: 10px;
+    border:1px solid #0EC8C2;
+    border-radius: 4px;  
+    position: relative;
+    top: 60px;
+    border: #0EC8C2;
+}
+ a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+button:hover{
+    background-color: #333;
+    transition: 0.3s;
+}
+
+.about{
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+
+}
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: cursive;
+}
+.center {
+	text-align: center;
+	margin-top: 34px;
+}
+.content {
+	width: 400px;
+	position: relative;
+	top: 125px;
+	left: 800px;
+}
+.third-section{
+    width:100%;
+    height: 300px;
+    background: #0EC8C2;
+    
+}
+.project{
+    width: 20%;
+    display: inline-block;
+    margin: 100px 20px;
+    padding: 10px;
+    color: #fff;
+}
+
+
+.file-img {
+	width: 30px;
+	position: relative;
+	top: 30px;
+	right: 20px;
+}
+h4 {
+	position: relative;
+	left: 20px;
+}
+.youtube-content {
+	max-width: 81%;
+	position: relative;
+	left: -175px;
+}
+
+
+.same:focus-within{
+    box-shadow: 1px 1px 10px rgb(181, 246, 248) ;
+}
+
+.same-2:focus-within{
+    box-shadow: 1px 1px 10px rgb(181, 246, 248) ;
+}
+.image{
+    width: 24.5%;
+    display: inline-block;
+    
+}
+img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(45deg,#fff #333);
+}
+.more{
+    background: #F4F4F4;
+    height: 50px;
+    
+}
+.paragraph{
+    text-align: center;
+  
+    font-size: 10px;
+   
+    
+}
+.paragraph a{
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+    color:#333;
+}
+
+.fifth-section{
+    width: 100%;
+    height: 500px;
+}
+h1{
+    text-align: center;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+.word{
+    font-size: 15px;
+    text-align: center;
+}
+.position{
+    margin-top: 90px;
+}
+.position .word{
+    margin-top: 20px;
+}
+iframe{
+    position: relative;
+    top: 30px;
+    left: 300px;
+}
+.six-section{
+    width: 100%;
+    height: 450px;
+    background-color:#F4F4F4;
+}
+.category{
+    width: 20%;
+    display: inline-block;
+    height: 150px;
+    margin: 15px;
+    margin-left: 35px;
+    padding: 5px;
+}
+.category h4{
+    margin-top: 19px;
+}
+.ami{
+    font-size: 12px;
+    margin-top: 25px;
+    margin-left: 10px;
+   
+}
+.diamond-pic{
+    width: 60px;
+    position: relative;
+    top: 5px;
+    left: 70px;
+}
+.seven-section{
+    width: 100%;
+    height: 300px;
+    background-color:#0EC8C2;
+}
+.speech{
+    font-size: 17px;
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+h6{
+    font-size: 9px;
+    margin-top: 30px;
+}
+.eight-section{
+    width: 100%;
+    height: 200px;
+}
+.logo-pic{
+    display: inline-block;
+    width: 220px;
+    margin: 10px;
+    align-items: center;
+}
+.small-pic{
+    width:50%;
+    position: relative;
+    top: 50px;
+    left: 50px;
+  
+}
+.nine-section{
+    background-color: #F4F4F4;
+    width: 100%;
+    height: 600px;
+}
+.data-project{
+    position: relative;
+    top: 60px;
+}
+.data{
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+form{
+    position: relative;
+    top: 200px;
+}
+.same{
+    position: relative;
+    left: 30%;
+    margin: 10px;
+    padding: 15px 25px;
+    border: #FFFFFF;
+}
+input{
+    position: relative;
+    left: 30%;
+    padding: 10px 10px;
+    padding-right: 300px;
+    border: #FFFFFF;
+}
+.btn{
+    position: relative;
+    top: 300px;
+    left: 550px;
+    border: #333;
+    border-radius: 4px;  
+}
+.btn:hover{
+    background-color:#333;
+}
+footer{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    
+
+}
+.company-name{
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+    padding: 5px;
+    margin-top: 80px;
+
+}
+
+
+.position-right{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+
+}
+.a-color{
+    color: white;
+    font-family: serif;
+    font-size:15px ;
+}
+.a-color.size-big{
+    font-size: 18px;
+}
+.transfer{
+    margin-left: 40px;
+}

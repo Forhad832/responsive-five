@@ -1,0 +1,351 @@
+@media (max-width:1400px){
+    nav {
+        float: right;
+        position: absolute;
+        right: 70px;
+        top: -6px;
+    }
+}
+@media (max-width:1199px){
+    .content {
+        top: 125px;
+        left: 707px;
+    }
+    .project {
+        width: 19%;
+        margin: 100px 21px;
+    }
+    .category {
+        width: 18%;
+        margin-left: 41px
+    }
+    .seven-section {
+        height: 260px;
+    }
+    .speech {
+        top: 95px;
+    }
+    .logo-pic {
+        width: 196px;
+        margin-left: 15px;
+        margin-right: 8px;
+    }
+    .small-pic {
+        width: 44%;
+        left: 60px;
+    }
+    .same {
+        left: 29.5%;
+    }
+}
+@media (max-width:1050px){
+    .content {
+        left: 530px;
+    }
+    .project {
+        width: 16%;
+        margin: 100px 29px;
+    }
+    .youtube-content {
+        margin-left: -89px;
+    }
+    .logo-pic {
+        width: 164px;
+        margin-left: 17px;
+    }
+    .btn {
+        top: 256px;
+        left: 461px;
+    }
+}
+@media (max-width:992px){
+    .container {
+        height: 450px;
+    }
+    .content {
+        left: 460px;
+        top: 55px;
+    }
+    nav {
+        right: 36px;
+    }
+    .third-section {
+        height: 250px;
+    }
+    .project {
+        width: 16%;
+        margin: 77px 23px;
+    }
+    .file-img {
+        top: 37px;
+    }
+    .youtube-content {
+        margin-left: -170px;
+    }
+    .category {
+        width: 21%;
+        margin-left: 160px;
+    }
+    .diamond-pic {
+        left: 39px;
+    }
+    .category h4 {
+        font-size: 13px;
+    }
+    .six-section {
+        height: 860px;
+    }
+    .seven-section {
+        margin-top: 0px;
+    }
+    .logo-pic {
+        width: 127px;
+        margin-left: 25px;
+    }
+    .small-pic {
+        width: 91%;
+        left: 0px;
+    }
+    .btn {
+        left: 416px;
+    }
+    .company-name {
+        width: 25%;
+        margin-left: 13px;
+    }
+    .position-right {
+        width: 55px;
+    }
+}
+@media (max-width:768px){
+
+    nav {
+        right: 15px;
+        top: 19px;
+    }
+    h1 {
+        font-size: 20px;
+        margin-right: 213px;
+        position: relative;
+        top: 28px;
+    }
+    .main {
+        top: 25px;
+        width: 214px;
+        color: #fff;
+    }
+    .container {
+        padding: 0px 0;
+    }
+    .content {
+        left: 226px;
+        top: 153px;
+    }
+    .project {
+        width: 31%;
+        margin: 10px;
+    }
+    .all-project {
+        margin-left: 144px;
+    }
+    .position {
+        margin-top: 12px;
+    }
+    h1 {
+        margin-right: 96px;
+        top: 0px;
+        font-size: 23px;
+        color: tomato;
+    }
+    a {
+
+        color: #fff;
+        font-weight: bold;
+    }
+    .youtube-content {
+        max-width: 100%;
+        margin-left: -300px;
+    }
+    .category {
+        margin-left: 121px;
+    }
+    .logo-pic {
+        width: 94px;
+        margin-left: 26px;
+    }
+    .small-pic {
+        width: 58%;
+        left: 0px;
+    }
+    .btn {
+        left: 282px;
+    }
+    .position h1 {
+        text-align: left;
+        margin-left: 300px;
+    }
+}
+@media (max-width:576px){
+    .logo img {
+        width: 14%;
+        position: relative;
+        float: right;
+        right: 220px;
+    }
+    ul {
+        margin-left: 45px;
+    }
+    nav ul li {
+        padding: 5px;
+        margin-left: 31px;
+        margin-top: 12px;
+    }
+    .content {
+        left: 100px;
+        top: 160px;
+    }
+    .center {
+        font-size: 14px;
+    }
+    .all-project {
+        margin-left: 66px;
+    }
+
+    .file-img {
+        right: 11px;
+    }
+    h4 {
+        left: 27px;
+    }
+    .position h1 {
+        margin-left: 137px;
+    }.word {
+        font-size: 12px;
+    }
+    .youtube-content {
+        margin-left: -300px;
+        width: 100%;
+    }
+    .category {
+        margin-left: 144px;
+        width: 52%;
+    }
+    .image {
+        width: 100%;
+    }
+    .six-section {
+        height: 1520px;
+    }
+    .seven-section {
+        height: 230px;
+    }
+    .speech {
+        top: 68px;
+    }
+    .logo-pic {
+        width: 44px;
+        margin-left: 35px;
+        margin-top: -12px;
+    }
+    .eight-section {
+        height: 50px;
+    }
+    .same {
+        padding: 15px 10px;
+        left: 20px;
+        margin: 0;
+    }
+    input {
+        left: 20px;
+    }
+    .btn {
+        left: 185px;
+    }
+    .company-name {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 0;
+        padding: 0;
+    }
+    .a-color {
+        position: absolute;
+    }
+    .a-color.down {
+        position: relative;
+        top: 204px;
+        margin-left: 77px;
+    }
+    .position-right {
+        width: 84px;
+        margin-top: 53px;
+    }
+}
+@media (max-width:420px){
+    .logo img {
+        right: 175px;
+        bottom: 187px;
+    }
+    nav ul li {
+        padding: 4px;
+        margin-left: 11px;
+    }
+    .container {
+        padding: 187px 0px;
+        height: 0;
+    }
+    .main {
+        top: 45px;
+         font-size: 13px;
+      
+    }
+    .content {
+        left: 159px;
+        top: -90px;
+    }
+    .content {
+        left: 100px;
+        top: -90px;
+        width: 280px;
+    }
+    h1 {
+        margin-right: 86px;
+        top: 23px;
+        font-size: 15px;
+    }
+    .center {
+        font-size: 13px;
+    }
+    .all-project {
+        margin-left: 45px;
+    }
+    .project {
+        width: 41%;
+        margin: 0;
+    }
+    .file-img {
+        right: 11px;
+    }
+    .image {
+        width: 100%;
+    }
+    .category {
+        margin-left: 100px;
+    }
+    .same {
+        left: 20px;
+    }
+    input {
+        left: 20px;
+        padding-right: 176px;
+    }
+    .position-right {
+        margin-top: 70px;
+        margin-left: 20px;
+    }
+    .position .word {
+        margin-top: 50px;
+    }
+    .btn {
+        left: 140px;
+    }
+}
